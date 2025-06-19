@@ -256,10 +256,5 @@ I'm passionate about clean code, problem-solving, and continuous learning. Alway
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirthgodhani&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthgodhani&layout=compact&theme=radical&hide_border=true)
-
 **⭐ Star this repository if you found it helpful!**
-
 </div>
