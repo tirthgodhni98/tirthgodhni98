@@ -1,10 +1,6 @@
 # 👨‍💻 Tirth Godhani
 ## Senior Software Engineer | Full Stack Developer | 4+ Years Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirth-godhani/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirthgodhani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tirthgodhani.dev)
-
 ---
 
 ## 🚀 Welcome to my GitHub!
