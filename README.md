@@ -71,14 +71,14 @@ I'm a **Senior Software Engineer** with over **4+ years of experience** building
 ### 🎯 ProgressMaker® - Strategic Execution Platform
 *Enterprise SaaS platform for transforming organizational strategies into actionable outcomes*
 
-- **Role**: Full Stack Developer & Core Contributor
-- **Tech Stack**: Angular, Node.js, PostgreSQL, NGXS/NGRX
+- **Role**: FrontEnd Developer & Core Contributor
+- **Tech Stack**: Angular, NGXS/NGRX
 - **Key Features**: OKR management, KPI tracking, intelligent status indicators
 - **Impact**: Enhanced platform capabilities, improved user experience, faster EBIT results
-- **Duration**: Jul 2021 - Jan 2025
 
 ### 🏢 BJE – Franchise Management Platform
 *Digital platform for franchise operations, reporting, and growth management*
+*Integrated gift card, loyalty rewards, and cashless payment system*
 
 - **Role**: Core Contributor & Solution Architect
 - **Tech Stack**: React, Node.js, PostgreSQL, AWS
@@ -87,11 +87,11 @@ I'm a **Senior Software Engineer** with over **4+ years of experience** building
 - **Focus**: Usability, scalability, real-time performance
 
 ### 💳 Paymore – Digital Payment & Loyalty Platform
-*Integrated gift card, loyalty rewards, and cashless payment system*
+*Digital platform for franchise operations, reporting, and growth management*
 
 - **Role**: Full Stack Developer
 - **Tech Stack**: React.js, Redux.js, Node.js, AWS, REST APIs
-- **Key Features**: Reward points management, digital gift cards, secure transactions
+- **Key Features**: Paymore is an API-first digital payment and loyalty platform offering UPI, card payments, AEPS, gift cards, rewards, and franchise-ready services with real-time analytics, high security, and fast onboarding.
 - **Impact**: Enhanced customer retention, streamlined transactions
 - **Focus**: Security, user experience, franchise ecosystem support
 
