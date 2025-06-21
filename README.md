@@ -254,7 +254,3 @@ I'm passionate about clean code, problem-solving, and continuous learning. Alway
 *"Passionate about clean code, problem-solving, and continuous learning. Always excited to take on new challenges and contribute to meaningful tech innovations."*
 
 ---
-
-<div align="center">
-**⭐ Star this repository if you found it helpful!**
-</div>
