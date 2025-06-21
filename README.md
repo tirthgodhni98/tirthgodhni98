@@ -77,8 +77,7 @@ I'm a **Senior Software Engineer** with over **4+ years of experience** building
 - **Impact**: Enhanced platform capabilities, improved user experience, faster EBIT results
 
 ### 🏢 BJE – Franchise Management Platform
-*Digital platform for franchise operations, reporting, and growth management*
-*Integrated gift card, loyalty rewards, and cashless payment system*
+*Digital platform for franchise operations, reporting, and growth management* & *Integrated gift card, loyalty rewards, and cashless payment system*
 
 - **Role**: Core Contributor & Solution Architect
 - **Tech Stack**: React, Node.js, PostgreSQL, AWS
