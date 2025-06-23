@@ -1,5 +1,4 @@
-# 👨‍💻 Tirth Godhani
-## Senior Software Engineer | Full Stack Developer | 4+ Years Experience
+# 👨‍💻 Tirth Godhani | Senior Software Engineer | Full Stack Developer | 4+ Years Experience
 
 ## 🚀 Welcome to my GitHub!
 
