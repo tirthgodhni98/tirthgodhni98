@@ -1,7 +1,5 @@
 # 👨‍💻 Tirth Godhani | Senior Software Engineer | Full Stack Developer | 4+ Years Experience
 
-## 🚀 Welcome to my GitHub!
-
 I'm a **Senior Software Engineer** with over **4+ years of experience** building scalable web applications using Angular, React, Node.js, and PostgreSQL. I specialize in architecting high-performance frontends, implementing robust state management with NGXS/NGRX, and optimizing UI/UX experiences.
 
 ### 🎯 Mission
