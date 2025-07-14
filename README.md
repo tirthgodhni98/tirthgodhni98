@@ -69,16 +69,16 @@ I'm a **Senior Software Engineer** with over **4+ years of experience** building
 *Enterprise SaaS platform for transforming organizational strategies into actionable outcomes*
 
 - **Role**: FrontEnd Developer & Core Contributor
-- **Tech Stack**: Angular, NGXS/NGRX
+- **Tech Stack**: Angular, NGXS/NGRX, PrimeNg, Syncfusion, Playwright, D3.js
 - **Key Features**: OKR management, KPI tracking, intelligent status indicators
 - **Impact**: Enhanced platform capabilities, improved user experience, faster EBIT results
 
 ### 🏢 BJE – Franchise Management Platform
-*Digital platform for franchise operations, reporting, and growth management* & *Integrated gift card, loyalty rewards, and cashless payment system*
+*Digital platform for franchise operations, reporting, and growth management*
 
 - **Role**: Core Contributor & Solution Architect
-- **Tech Stack**: React, Node.js, PostgreSQL, AWS
-- **Key Features**: Real-time data visibility, financial tracking, performance insights
+- **Tech Stack**: React, Node.js, PostgreSQL, AWS, Shopify App, Shopify POS Extension
+- **Key Features**: The Beef Jerky Experience delivers a diverse range of gourmet and exotic jerky, along with small-batch snacks, all within an engaging, hands-on retail environment
 - **Impact**: Streamlined operations, scalable solutions, enhanced franchise management
 - **Focus**: Usability, scalability, real-time performance
 
@@ -87,7 +87,7 @@ I'm a **Senior Software Engineer** with over **4+ years of experience** building
 
 - **Role**: Full Stack Developer
 - **Tech Stack**: React.js, Redux.js, Node.js, AWS, REST APIs
-- **Key Features**: Paymore is an API-first digital payment and loyalty platform offering UPI, card payments, AEPS, gift cards, rewards, and franchise-ready services with real-time analytics, high security, and fast onboarding.
+- **Key Features**: PayMore is a tech resale store where you can quickly and safely buy, sell, or trade used electronics for cash, backed by secure data wiping and eco-friendly recycling.
 - **Impact**: Enhanced customer retention, streamlined transactions
 - **Focus**: Security, user experience, franchise ecosystem support
 
@@ -95,9 +95,9 @@ I'm a **Senior Software Engineer** with over **4+ years of experience** building
 *Blockchain-enabled SaaS for carbon credit management and trading*
 
 - **Role**: Full Stack Developer & Blockchain Integration
-- **Tech Stack**: React, Node.js, Blockchain, PostgreSQL
-- **Key Features**: GHG reporting, carbon accounting, dMRV capabilities, CFEE Label
-- **Impact**: Transparent carbon credit management, global standards integration
+- **Tech Stack**: Angular, React, Node.js, Blockchain, PostgreSQL, OpenAI API, JAVA
+- **Key Features**: Verdana.io is a digital carbon platform that uses blockchain and automation to help organizations accurately measure, verify, and trade carbon emissions and credits.
+- **Impact**: Contributed to Verdana.io, a blockchain-enabled carbon management platform that enhances transparency and trust in carbon markets by digitizing emissions tracking and credit verification.
 - **Focus**: Sustainability, blockchain technology, cross-sector solutions
 
 ---
